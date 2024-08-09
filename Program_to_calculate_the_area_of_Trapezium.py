@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+h=int(input())
+t=(1/2)*(a+b)*(h)
+print('{:.4f}'.format(t))
